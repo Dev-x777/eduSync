@@ -1,3 +1,4 @@
+import 'package:edusync/presentation/pages/home_page.dart';
 import 'package:edusync/presentation/pages/login_page.dart';
 import 'package:edusync/presentation/pages/splash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -22,7 +23,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: SplashScreen(),
+      home: HomeScreen(),
     );
   }
 }
