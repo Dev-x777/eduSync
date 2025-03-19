@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1058252648968",
+    "project_id": "edusync-dadb5",
+    "storage_bucket": "edusync-dadb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058252648968:android:8fd167e750fe43cfc717bd",
+        "android_client_info": {
+          "package_name": "com.example.edusync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058252648968-mokao7uub2t6hlc5o6pb45ni5cp02n57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-VmXqkmC1APbxcOLGoLIQAC9re47dBWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058252648968-mokao7uub2t6hlc5o6pb45ni5cp02n57.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058252648968-t29qkphltqhc4f8470p21siadnp6t80e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.edusync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
